@@ -4,11 +4,8 @@
 ### Real-time bus timetable
 [Github](https://github.com/joan-domingo/public-transport-map)
 
-Mobile-first React SPA that uses google maps to see the bus stops for different lines and provides with real-time data for each bus stop about upcoming buses.
+Mobile-first React SPA that uses google maps to see the bus stops for different lines in my hometown and provides with real-time data for each bus stop about upcoming buses.
 Uses a Lambda function as Backend service to bypass cors issues from the original source endpoint. Published at [https://quantriga.com/](https://quantriga.com/).
-
-### Free API services - Coming soon!
-Free and useful API services for your apps.
 
 ## Old projects
 ### Projects Health Tracker 
